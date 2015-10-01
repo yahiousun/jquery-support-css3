@@ -5,7 +5,7 @@
 
 ## Getting Started
 
-install with bower:
+Install with bower:
 
 ```
 bower install --save jquery-support-css3
