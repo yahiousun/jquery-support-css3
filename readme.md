@@ -1,11 +1,17 @@
-# jQuery support css 3 event
+# jQuery.support css3 event
 
 > Detect css3 transition/animation event support
 
 
 ## Getting Started
 
-Download the [production version][min] or the [development version][max].
+install with bower:
+
+```
+bower install --save jquery-support-css3
+```
+
+Or download the [production version][min] or the [development version][max].
 
 [min]: https://raw.githubusercontent.com/yahiousun/jquery-support-css3/master/dist/jquery.support.css3.min.js
 [max]: https://raw.githubusercontent.com/yahiousun/jquery-support-css3/master/dist/jquery.support.css3.js
@@ -33,7 +39,6 @@ In your web page:
   });
 </script>
 ```
-
 
 ## License
 

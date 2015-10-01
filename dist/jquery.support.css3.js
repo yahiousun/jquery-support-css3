@@ -1,4 +1,4 @@
-/*! jquery.support.css3 - v0.0.1 - 2015-10-01
+/*! support.css3 - v0.0.1 - 2015-10-01
 * Copyright (c) 2015 yahiousun; Licensed MIT */
 ;(function (factory) {
   'use strict';
