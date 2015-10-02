@@ -5,5 +5,12 @@
   "devDependencies": {
     "qunit": "~1.12.0",
     "jquery": "~1.7"
-  }
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "main": "dist/jquery.support.css3.js"
 }

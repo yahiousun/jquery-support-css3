@@ -1,13 +1,12 @@
 {
   "name": "support.css3",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "jQuery support css3 event detect",
   "keywords": [
     "jquery",
     "css3",
     "event"
   ],
-  "main": "dist/jquery.support.css3.js",
   "author": {
     "name": "yahiousun",
     "email": "yahiousun@gmail.com",
@@ -31,11 +30,6 @@
     "load-grunt-tasks": "^2.0.0",
     "time-grunt": "^1.0.0"
   },
-  "ignore": [
-    "node_modules",
-    "bower_components",
-    "test"
-  ],
   "dependencies": {
     "grunt-contrib-jshint": "^0.11.3",
     "jquery": ">= 1.7.0"
